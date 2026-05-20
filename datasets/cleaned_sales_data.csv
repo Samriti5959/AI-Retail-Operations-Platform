@@ -1,0 +1,11 @@
+Date,Store,Product,Category,Units_Sold,Unit_Price,Revenue,Region
+2026-01-01,Toronto Store,Laptop,Electronics,5,1200,6000,Ontario
+2026-01-01,Mississauga Store,Headphones,Electronics,10,150,1500,Ontario
+2026-01-02,Brampton Store,Coffee Maker,Home Appliances,7,90,630,Ontario
+2026-01-02,Scarborough Store,Smartphone,Electronics,4,900,3600,Ontario
+2026-01-03,Hamilton Store,Microwave,Home Appliances,3,250,750,Ontario
+2026-01-03,Toronto Store,Keyboard,Accessories,12,80,960,Ontario
+2026-01-04,Mississauga Store,Monitor,Electronics,6,300,1800,Ontario
+2026-01-04,Brampton Store,Printer,Office Supplies,2,220,440,Ontario
+2026-01-05,Scarborough Store,Tablet,Electronics,5,500,2500,Ontario
+2026-01-05,Hamilton Store,Mouse,Accessories,15,40,600,Ontario
